@@ -1,0 +1,6 @@
+{
+  "name": "Hán Nôm Kiểm Chứng — Trợ lý phiên âm Hán Nôm có kiểm chứng",
+  "description": "Trợ lý nhận diện, phiên âm Hán Nôm sang Quốc ngữ và kiểm chứng văn bản học từng chữ bằng AI đa phương thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
